@@ -1,5 +1,4 @@
 # my-chat-mern
-# mern-note-with-redux
 It is a Full Stack Chatting App. Uses Socket.io for real time communication and and stores user details in encrypted format in Mongo DB Database.
 
 # Tech Stack
